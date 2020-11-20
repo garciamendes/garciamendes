@@ -6,7 +6,7 @@
 
 ### Front-end developer
 
-Matheus Garcia that's my name, I'm 20 years old, I'm new to the world of developers. some experiences I have in my github, hope you like it and we can talk for more learning. Learning never hurts, does it ?!
+A passion for technologies and how they work from behind. Lines of code can do thousands of things, it is one reason among many others to study with joy and passion to create.
 
 Technologies: `Html` `Css` `Sass` `Styled-components` `Javascript` `Python` `React.js` `React Native`
 
